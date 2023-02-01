@@ -124,3 +124,6 @@ package-lock.json
 
 # Android memory profiler files
 *.hprof
+
+# android gradle tools
+packages/react-native-gradle-plugin/bin/
